@@ -1,0 +1,8 @@
+opencv-python==3.4.1.15
+tensorflow==1.5.0
+easydict==1.7
+numpy==1.14.1
+Cython==0.27.3
+PyYAML==3.13
+Flask==0.12.2
+
