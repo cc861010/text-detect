@@ -1,4 +1,4 @@
-# text-detection-ctpn-docker
+# text-detection-ctpn-docker (base from https://github.com/eragonruan/text-detection-ctpn.git)
 
 ## start
 
