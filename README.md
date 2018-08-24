@@ -4,6 +4,6 @@
 
 ## start
 
-    docker run -p 8080:8080 -d cc861010/text-detect
+    docker run -p 8080:8080 -d cc861010/text-detect-image
 
 
